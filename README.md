@@ -17,7 +17,7 @@ This project I created with React includes a mock API used for simulating a shop
 
 ## Live Demo
 
-[Shopping Cart](https://shopping-cart-gamma-snowy.vercel.app/)
+[Shopping Cart](https://react-shopping-cart-app-inky.vercel.app/)
 
 ## Features
 
